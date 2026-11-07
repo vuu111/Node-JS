@@ -1,0 +1,11 @@
+{
+  "name": "bai-02-phan-01",
+  "version": "1.0.0",
+  "description": "Bài 02 - Phần 01: Tạo HTTP server bằng Node.js thuần trả về HTML chứa tên sinh viên",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Trần Huỳnh Vũ - CD-CNTT18B33",
+  "license": "ISC"
+}
